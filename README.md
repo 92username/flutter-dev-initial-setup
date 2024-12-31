@@ -1,3 +1,4 @@
+[![Codacy Security Scan](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml/badge.svg)](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml)
 
 # Flutter Initial Setup Script
 
