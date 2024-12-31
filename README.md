@@ -1,4 +1,4 @@
-[![Codacy Security Scan](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml/badge.svg)](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml)
+[![Codacy Security Scan](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml/badge.svg)](https://github.com/92username/flutter-initial-setup/actions/workflows/codacy.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c572527d4a74f5198e77a613c39d4ab)](https://app.codacy.com/gh/92username/flutter-initial-setup/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 # Flutter Initial Setup Script
 
