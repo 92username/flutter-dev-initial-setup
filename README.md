@@ -27,7 +27,7 @@ A Bash script to automate the installation and setup of Flutter SDK, its depende
 
 2. Make the script executable:
    ```bash
-   chmod +x setup-flutter.sh
+   chmod +x setup.sh
    ```
 
 3. Run the script:
