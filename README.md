@@ -32,7 +32,7 @@ A Bash script to automate the installation and setup of Flutter SDK, its depende
 
 3. Run the script:
    ```bash
-   sudo ./setup-flutter.sh
+   sudo ./setup.sh
    ```
 
 4. Follow the on-screen instructions. The script will:
